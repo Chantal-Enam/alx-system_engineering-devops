@@ -1,2 +1,5 @@
 #!/bin/bash
 cd -
+[master da7cf6e] task 10 done
+ 1 file changed, 2 insertions(+)
+ create mode 100755 0x00-shell_basics/10-back
